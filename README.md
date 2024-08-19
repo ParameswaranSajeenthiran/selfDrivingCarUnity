@@ -1,4 +1,4 @@
-﻿# selfDrivingCar Uging Nvidia's CNN Model
+﻿# Self Driving Car using Nvidia's CNN Model
 
 ### Dataset Colletion 
 frames from the udacity nanodegree program unity simulator  in trainging mode
